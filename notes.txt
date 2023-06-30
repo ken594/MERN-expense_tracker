@@ -1,0 +1,18 @@
+-- inside of client and server folder, install all the packages
+
+	npm install
+
+-- next step is to configure the database by mongoose
+
+-- Need to install react-router-dom to use route in client folder
+
+	npm install react-router-dom
+
+-- Need to install axios to make a request to our backend in client folder
+
+	npm install axios
+
+-- To use Material-UI, install the package in client folder
+
+	npm install @mui/material @emotion/react @emotion/styled
+
